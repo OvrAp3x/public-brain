@@ -4,6 +4,7 @@
 
 
 ## Hey 👋, This is Einar Stenberg
+![Image](https://avatars.githubusercontent.com/u/14344702?v=4)
 [![Gmail Badge](https://img.shields.io/badge/-einar@stenberg.cloud-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:einar@stenberg.cloud)](mailto:einar@stenberg.cloud) 
 [![Linkedin Badge](https://img.shields.io/badge/-einarstenberg-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/einarstenberg/)](https://www.linkedin.com/in/einarstenberg/) [![Github Badge](https://img.shields.io/badge/-OvrAp3x-grey?style=flat&logo=github&logoColor=white&link=https://github.com/OvrAp3x/)](https://www.github.com/OvrAp3x/) [![Twitter Badge](https://img.shields.io/badge/-@einarstenberg-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@einarstenberg/)](https://www.twitter.com/@einarstenberg/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://wiki.wehasinter.net/)](https://wiki.wehasinter.net/)
 [![Portfolio Badge](https://img.shields.io/badge/Stackexchange-web-blue?style=flat&link=https://stackoverflow.com/users/17973281/1ar)](https://stackoverflow.com/users/17973281/1ar)
