@@ -17,7 +17,6 @@ Like to remove configured networks etc.
 #Enable Firewall
 defaults write /Library/Preferences/com.apple.alf globalstate -int 1
 ```
-
 #### MacOS update (intel only)
 ```bash
 #!/bin/bash
