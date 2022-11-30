@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/linux/tar-file-quick-reference/"}
+dg-publish: true
+tags:
+- public
+- linux
+- tools
 ---
-
 #zip
 ## Extract or Unpack a TarBall File
 
