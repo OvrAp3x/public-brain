@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/one-drive-login-problems-on-mac/"}
+dg-publish: true
+tags:
+- public
+- macos
+- onedrive
 ---
-
 ## To reset OneDrive on a Mac
 
 1.  Quit OneDrive. (Select the cloud icon in the top tray, then select **Settings** > **Quit OneDrive**.)
