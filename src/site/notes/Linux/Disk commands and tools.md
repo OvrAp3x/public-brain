@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/linux/disk-commands-and-tools/"}
+dg-publish: true
+tags:
+- public
 ---
-
 
 #### Expand LVM when resizing virtual disks
 ```bash
