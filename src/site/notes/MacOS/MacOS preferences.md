@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/mac-os-preferences/"}
+dg-publish: true
+tags:
+- public
 ---
-
 #### Enable non-admins to change wifi settings
 Like to remove configured networks etc.
 ```bash
