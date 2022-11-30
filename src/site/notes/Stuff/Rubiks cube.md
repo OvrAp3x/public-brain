@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/stuff/rubiks-cube/"}
+dg-publish: true
+tags:
+- public
 ---
-
 
 ### STEP 1 Solve the Upper Cross
 
