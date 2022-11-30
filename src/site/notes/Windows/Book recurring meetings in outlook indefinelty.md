@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/windows/book-recurring-meetings-in-outlook-indefinelty/"}
+dg-publish: true
+tags:
+- public
+- outlook
+- windows
 ---
-
 
 ## About
 
