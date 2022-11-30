@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/client-isolation/"}
+aliases: "Wifi Client Isolation"
+dg-publish: true
+tags:
+- public
 ---
-
 #wifi #networking #unifi 
 
 Used in [[Wi-FI\|Wi-FI]] Networking. On Access points where where client isolation is enabled, wireless devices connected to the same access points cannot communicate with eachother. 
