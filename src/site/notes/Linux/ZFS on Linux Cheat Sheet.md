@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/linux/zfs-on-linux-cheat-sheet/"}
+dg-publish: true
+tags:
+- public
+- zfs
+- disk
+- linux
 ---
-
 
 # Memory ARC limits
 This will limit arc usage to 8Gb
