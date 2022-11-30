@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os/how-to-add-a-shared-mailbox-in-outlook-mac-os/"}
+dg-publish: true
+tags:
+- public
+- macos
+- outlook
 ---
-
 
 1.  Open **Outlook**, select the **Tools** menu on top, then select **Account**.
 2.  Click on the **+ Symbol** on the bottom of the accounts list
