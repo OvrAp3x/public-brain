@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/linux/change-hostname/"}
+dg-publish: true
+tags:
+- public
+- linux
+- networking
+- debian
 ---
-
 
 To change hostname, to files needs to be updated
 `nano /etc/hostname`
