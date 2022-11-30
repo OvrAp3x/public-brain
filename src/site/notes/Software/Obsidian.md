@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/software/obsidian/"}
+dg-publish: true
+tags:
+- public
 ---
-
 ## About
 Obsidian is a notetaking and scond brain tool
 https://obsidian.md/
