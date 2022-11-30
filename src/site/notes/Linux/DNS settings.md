@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/linux/dns-settings/"}
+dg-publish: true
+tags:
+- public
 ---
-
 #dns #linux 
 
 This is based on debian, but is similar in most distros
