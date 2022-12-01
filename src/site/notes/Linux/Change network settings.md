@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
-- linux
-- networking
+{"dg-publish":true,"permalink":"/linux/change-network-settings/"}
 ---
+
 
 ## Task: Display current IP address and setting for network interface called eth0
 
