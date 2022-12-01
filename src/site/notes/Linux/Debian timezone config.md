@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
-- linux
-- debian
+{"dg-publish":true,"permalink":"/linux/debian-timezone-config/"}
 ---
+
 
 To change timezone for debian;
 Older installations
