@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
-- tool
-- linux
+{"dg-publish":true,"permalink":"/linux/scp-quick-reference/"}
 ---
+
 
 
 ## What is SCP?
