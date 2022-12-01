@@ -1,5 +1,4 @@
 ---
-dg-publish: true
-tags:
-- public
+{"dg-publish":true,"permalink":"/templates/public-document-template/"}
 ---
+
