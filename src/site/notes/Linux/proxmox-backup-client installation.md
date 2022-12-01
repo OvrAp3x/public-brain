@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
-- proxmox
-- backup
-- linux
+{"dg-publish":true,"permalink":"/linux/proxmox-backup-client-installation/"}
 ---
+
 # About
 
 This page contains an excerpt for the installation of the proxmox-backup-client CLI utility.  
