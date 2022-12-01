@@ -1,12 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
-- disk
-- debian
-- linux
-- tool
+{"dg-publish":true,"permalink":"/linux/ncdu/"}
 ---
+
 
 Terminal utility for easily finding what is using your disk space
 
