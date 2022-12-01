@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
+{"dg-publish":true,"permalink":"/mac-os/munki/"}
 ---
+
 ## About munki
 Munki is a tool fordeploying software to macos with automated updates
 
