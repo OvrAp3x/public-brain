@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
-- linux
-- disk
+{"dg-publish":true,"permalink":"/linux/check-folder-space-usage/"}
 ---
+
 
 To find the size of folders in a dir run
 `sudo du -h --max-depth=1 / | sort -n -r`
