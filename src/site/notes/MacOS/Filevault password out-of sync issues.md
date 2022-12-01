@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
-- macos
-- domain
-- activedirectory
+{"dg-publish":true,"permalink":"/mac-os/filevault-password-out-of-sync-issues/"}
 ---
+
 
 The following steps will remove and re-add a user to filevault so that the password will be in sync with the user again.  (This can happen when using mobile accounts with active directory when changing password from AD or another device)
 You will need another admin account with a securetoken assigned to complete the process
