@@ -1,9 +1,7 @@
 ---
-aliases: "Protected port"
-dg-publish: true
-tags:
-- public
+{"dg-publish":true,"permalink":"/concepts/port-isolation/"}
 ---
+
 #wifi #networking #unifi
 
 A feature that can be enableed on network switch on a port by port basis.
