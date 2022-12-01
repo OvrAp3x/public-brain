@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
+{"dg-publish":true,"permalink":"/linux/convert-physical-or-linux-vm-to-open-vz-container/"}
 ---
+
 #proxmox #linux 
 
 # Prepare a new “empty” container 
