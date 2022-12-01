@@ -1,13 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
-- linux
-- fix
-- domain
-- activedirectory
-- ubuntu
+{"dg-publish":true,"permalink":"/linux/fix-apparmor-issue-on-ubuntu/"}
 ---
+
 There is a known issue with apparmor stopping applications from ubuntu snap launching on domain joined machines.
 
 The root of the problem is that the home directory is stored in the /home/MYDOMAIN.LAN directory.
