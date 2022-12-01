@@ -1,11 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
-- proxmox
-- backup
-- linux
+{"dg-publish":true,"permalink":"/linux/proxmox-backup-client-usage/"}
 ---
+
 # About
 
 This page contains an excerpt for the usage of the proxmox-backup-client CLI utility.  
