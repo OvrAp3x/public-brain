@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-tags:
-- public
-- outlook
-- windows
+{"dg-publish":true,"permalink":"/windows/book-recurring-meetings-in-outlook-indefinelty/"}
 ---
+
 
 ## About
 
