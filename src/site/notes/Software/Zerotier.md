@@ -12,5 +12,5 @@ Mesh-zerotrust-vpn service
 
 ### install on unifi usg
 ```gist
-aa5c43d000ecaa71045fd67549d9fb91
+https://gist.github.com/OvrAp3x/aa5c43d000ecaa71045fd67549d9fb91
 ```
