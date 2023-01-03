@@ -3,7 +3,7 @@
 ---
 
 
-Docker is a piece of software for running and managing [[Container\|Container]]s
+Docker is a piece of software for running and managing [[Concepts/Container\|Container]]s
 
 ### Issues and fixes
 
