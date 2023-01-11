@@ -242,7 +242,9 @@ By default you will notice it looks like nothing is happening, however i can ass
 
 If you open another terminal and type in:
 
-watch -n60 'sudo kill -USR1 `pgrep ^dd`'
+watch -n60 'sudo kill -USR1 `pgrep
+{ #dd}
+`'
 
 The speed of the transfer and the amount of data transferred will be printed to the Terminal every 60 seconds:
 
